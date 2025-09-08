@@ -3,7 +3,7 @@ kubectl plugin for OpenKruise
 
 [Kruise-tools](https://github.com/openkruise/kruise-tools) provides commandline tools for kruise features, such as `kubectl-kruise`, which is a standard plugin of `kubectl`.
 
-## Install
+## Install1
 ### Install via Krew
 1. [Krew](https://krew.sigs.k8s.io/) itself is a kubectl plugin that is installed and updated via Krew (yes, Krew self-hosts).
    First, [install krew](https://krew.sigs.k8s.io/docs/user-guide/setup/install/).
